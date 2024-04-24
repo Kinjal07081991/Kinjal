@@ -1,2 +1,2 @@
 This is master branch.
-This is being added by local master branch.
+This is being added by remote master branch.
